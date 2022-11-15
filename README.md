@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nuellah02
 - 👀 I’m interested in Cloud Computing 
-- 🌱 I’m currently doing a lot of hands on practical Amazon Web Services
-- 💞️ I’m looking to collaborate on DevOps projects.
+- 🌱 I’ve done quite a number of practical on Amazon Web Services
+- 💞️ I’m looking to meet people in my field and collaborate on DevOps projects.
 - 📫 You can reach me on https://www.linkedin.com/in/emmanuella-uwakwe
 
 <!---
